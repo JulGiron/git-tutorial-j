@@ -1,6 +1,7 @@
 
 
 
-print("hola")
+print("Hola")
+print ("Adios") 
 
 
